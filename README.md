@@ -45,7 +45,7 @@ If one of these cards is drawn, the dealer returns it to the draw pile, shuffles
     - Note that playing a Penalty Card only forwards the penalty to the next player.
 
 # Winning
-A player cannot play if any of the players is cardless.
+A player cannot win if any of the players is cardless.
 
 For a player to win, they must play all their winning cards in one move and, have had said “Niko Kadi” in the previous round before the next player played their move. 
 
