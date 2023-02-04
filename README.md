@@ -37,7 +37,7 @@ If one of these cards is drawn, the dealer returns it to the draw pile, shuffles
 - If a player plays a Kickback Card, the game direction reverses. The player who was to play next can counter the move by playing their individual Kickback Card, and the rules for Kickback Cards apply based on the move made.
 - Multiple Jump Cards can be played by the same player, and with each card, a player is skipped in the direction of play. Similarly, if multiple Kickback Cards are played, the direction reverses with each card.
 - If a player plays an Ace card, they can declare the suit that the next player must play. If they do not, the game continues as usual.
-- If a player realizes they can win on the next round of play, they must announce "Niko Kadi." Otherwise, they cannot win.
+- If a player realizes they can win on the next round of play, they must announce "Niko Kadi!" before the next player plays.  Otherwise, they cannot win.
 - If the draw pile runs out of cards, the discard pile (excluding the top card) is shuffled to form the draw pile.
 - Penalty Cards (2, 3, and Jokers) must be followed by the next player drawing 2, 3 or 5 cards, respectively. The next player can avoid the penalty by:
     - Playing a Penalty Card of the same rank.
@@ -47,7 +47,7 @@ If one of these cards is drawn, the dealer returns it to the draw pile, shuffles
 # Winning
 A player cannot play if any of the players is cardless.
 
-For a player to win, they must play all their winning cards in one move and, have had said “Niko Kadi” in the previous round. 
+For a player to win, they must play all their winning cards in one move and, have had said “Niko Kadi” in the previous round before the next player played their move. 
 
 The winning cards are:
 -	Answer Cards
