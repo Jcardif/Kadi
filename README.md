@@ -37,7 +37,7 @@ If one of these cards is drawn, the dealer returns it to the draw pile, shuffles
 - If a player realizes they can win on the next round of play, they must announce "Niko Kadi." Otherwise, they cannot win.
 - If the draw pile runs out of cards, the discard pile (excluding the top card) is shuffled to form the draw pile.
 - Penalty Cards (2, 3, and Jokers) must be followed by the next player drawing 2, 3 or 5 cards, respectively. The next player can avoid the penalty by:
-    - git Playing a Penalty Card of the same rank.
+    - Playing a Penalty Card of the same rank.
     - Playing an Ace card. The game continues with the suit from the previous Penalty Card.
     - Note that playing a Penalty Card only forwards the penalty to the next player.
 
