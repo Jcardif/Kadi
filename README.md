@@ -3,7 +3,8 @@ Kadi is a Kenyan card game that can be played with 2-5 players using a standard 
 
 # Objective
 The goal of Kadi is to be the first player to play all the winning cards in a single move.
-Card Types
+
+# Card Types
 
 A standard 54-card deck is used, consisting of 4 suits (Hearts, Diamonds, Spades, Clubs) and 2 Jokers. Each suit has 13 cards, including Ace, 2 to 10, Jack, Queen, and King.
 
@@ -22,6 +23,8 @@ The following cards cannot start the discard pile:
 - Question Cards
 - Kickback Cards
 - Jump Cards.
+- Aces (A)
+- Jokers (JOK)
 
 If one of these cards is drawn, the dealer returns it to the draw pile, shuffles the deck, places the top card face up, and repeats the process until a valid card is drawn.
 
