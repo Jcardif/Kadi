@@ -38,14 +38,17 @@ If one of these cards is drawn, the dealer returns it to the draw pile, shuffles
 - Multiple Jump Cards can be played by the same player, and with each card, a player is skipped in the direction of play. Similarly, if multiple Kickback Cards are played, the direction reverses with each card.
 - If a player plays an Ace card, they can declare the suit that the next player must play. If they do not, the game continues as usual.
 - If a player realizes they can win on the next round of play, they must announce "Niko Kadi!" before the next player plays.  Otherwise, they cannot win.
+- With an ace of spades, a player can ask for a specific card from all players except the one who is supposed to play next.
+    - If he announces "Niko Kadi" and after that round the other players don't produce the card he asked for, he wins!
 - If the draw pile runs out of cards, the discard pile (excluding the top card) is shuffled to form the draw pile.
 - Penalty Cards (2, 3, and Jokers) must be followed by the next player drawing 2, 3 or 5 cards, respectively. The next player can avoid the penalty by:
     - Playing a Penalty Card of the same rank.
     - Playing an Ace card. The game continues with the suit from the previous Penalty Card.
     - Note that playing a Penalty Card only forwards the penalty to the next player.
 
+
 # Winning
-A player cannot win if any of the players is cardless.
+A player cannot play if any of the players is cardless.
 
 For a player to win, they must play all their winning cards in one move and, have had said “Niko Kadi” in the previous round before the next player played their move. 
 
