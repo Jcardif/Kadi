@@ -21,7 +21,9 @@ The following cards cannot start the discard pile:
 - 2 and 3 cards
 - Question Cards
 - Kickback Cards
-- Jump Cards.
+- Jump Cards
+- Joker Cards
+- Ace Cards
 
 If one of these cards is drawn, the dealer returns it to the draw pile, shuffles the deck, places the top card face up, and repeats the process until a valid card is drawn.
 
