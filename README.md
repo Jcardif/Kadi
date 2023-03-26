@@ -29,7 +29,8 @@ If one of these cards is drawn, the dealer returns it to the draw pile, shuffles
 
 # Rules
 - The previous winner or the dealer (if it's a new game) starts the game and determines direction of play.
-- Players must play a card that matches the suit or rank on the discard pile.
+- Players must play a card that matches the suit or rank of the top card on the discard pile.
+- If a player plays a card that does not match the suit or rank of the top card on the discard pile, they are penalised by picking a card from the draw pile.
 - If a player cannot play a card, they must draw a card from the draw pile.
 - If a player plays a Question Card, it must be accompanied by a matching answer card. If the player does not have an answer card, they must draw a card from the draw pile.
 - If a player plays a Jump Card, the next player is skipped. However, the player who was to play next can counter the move by playing their individual Jump Card, and the rules for Jump Cards apply based on this move.
